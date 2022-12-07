@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @rae-ng
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently learning C Programming
-- 💞️ I’m looking to collaborate on school projects
+- 🌱 I’m currently learning Google Cloud
 - 📫 How to reach me rshuang1995@gmail.com
 
 <!---
